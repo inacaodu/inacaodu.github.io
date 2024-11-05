@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inacaodu.github.io/OYA/sitemap_index.txt
+Sitemap: https://inacaodu.github.io/Wvw/sitemap_index.txt
+Sitemap: https://inacaodu.github.io/xiV/sitemap_index.txt
+Sitemap: https://inacaodu.github.io/yab/sitemap_index.txt
